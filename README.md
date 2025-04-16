@@ -14,3 +14,5 @@ Tunggu sampai selesai
 php artisan serve
 ```
 ![Artisan](foto/artisan.jpg)
+5. Laravel Sudah Berhasil Di Install
+![Run](foto/laraend2.jpg)
